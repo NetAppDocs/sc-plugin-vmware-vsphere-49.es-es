@@ -1033,7 +1033,6 @@ Para obtener más información, consulte<block ref="16263f44e6fc6cfd9b368310c2c8
   <block id="6d2bf94f38d1fdf840fe9b231866899c" category="doc">Visión General de la implementación</block>
   <block id="8c5a46f2b9b85dd307d50498933fef6a" category="paragraph">Los usuarios existentes de SnapCenter deben usar un flujo de trabajo de puesta en marcha diferente desde nuevos usuarios de SnapCenter.</block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="summary">El plugin de SnapCenter para VMware vSphere (SCV) es un dispositivo virtual basado en Linux. Como independiente, ofrece operaciones de backup y restauración rápidas, eficientes con el espacio, consistentes con los fallos y consistentes con las máquinas virtuales para máquinas virtuales, almacenes de datos y VMDK. También funciona con SnapCenter Server para admitir las operaciones de backup y restauración basadas en aplicaciones en entornos VMware para plugins específicos de aplicaciones de SnapCenter.</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="doc">Documentación del plugin de SnapCenter para VMware vSphere</block>
   <block id="0732e8e379c23dc5fb5e0055374a7f1d" category="summary">Si el cliente VMware vSphere de SnapCenter comienza a comportarse de forma incorrecta, es posible que deba borrar la memoria caché del explorador. Si el problema persiste, reinicie el servicio del cliente web.</block>
   <block id="ae6aa491e5b4d2d79971ced34f86c80e" category="section-title">Reinicie el servicio del cliente de VMware vSphere en una instancia de Linux vCenter</block>
   <block id="e570bf7b85385c5bda85ef035051e28f" category="paragraph">Debe ejecutar vCenter 7.0U1 o una versión posterior.</block>
@@ -2407,4 +2406,5 @@ El ahorro en almacenamiento es la proporción de la capacidad lógica (ahorros e
   <block id="c257f5c852c12409e63afb17104f69c5" category="sidebar">API de REST</block>
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">Flujos de trabajo de API DE REST para modificar las programaciones integradas</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">Actualice a un nuevo parche de la misma versión</block>
+  <block id="147e8233cabd13a871f077b92a377a39" category="sidebar">Documentación del plugin de SnapCenter para VMware vSphere 4,9</block>
 </blocks>
