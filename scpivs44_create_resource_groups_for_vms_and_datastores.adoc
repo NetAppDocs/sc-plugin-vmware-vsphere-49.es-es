@@ -113,11 +113,7 @@ Esta es la forma más sencilla de crear un grupo de recursos. No obstante, tambi
 | VCenter Server | Seleccione una instancia de vCenter Server. 
 
 
-| Nombre | Escriba un nombre para el grupo de recursos.
-No utilice los siguientes caracteres especiales en máquinas virtuales, almacenes de datos, políticas,
-nombres de backup o grupos de recursos:
-% & * $ # @ ! \ / : * ? " < > - [barra vertical] ; ' , . Se permite el carácter de guion bajo (_). Los nombres de máquinas virtuales o almacenes de datos con caracteres especiales se truncarán, lo que dificulta la búsqueda de un backup concreto.
-En el modo vinculado, cada instancia de vCenter tiene un repositorio de complementos de VMware de SnapCenter separado. Por lo tanto, se pueden usar nombres duplicados en vCenter. 
+| Nombre | Introduzca un nombre para el grupo de recursos. No utilice los siguientes caracteres especiales en los nombres de máquinas virtuales, almacenes de datos, políticas, copias de seguridad o grupos de recursos: % & * $ # @ ! \ / : * ? " < > - [barra vertical] ; ' , y espacio. Se permite un carácter de subrayado (_). Los nombres de máquinas virtuales o almacenes de datos con caracteres especiales se truncan, lo que dificulta la búsqueda de una copia de seguridad específica. En el modo vinculado, cada vCenter tiene un repositorio de complementos VMware de SnapCenter independiente.  Por lo tanto, puedes usar nombres duplicados en distintos vCenters. 
 
 
 | Descripción | Especifique una descripción del grupo de recursos. 
